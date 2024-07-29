@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Devops+Enthusiast;Cloud+Architecture;Computer+Science+Graduate)](https://git.io/typing-svg)
 <!--
 **Kais18/Kais18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there I am [Mohammed Kais](https://kaiswork.shop)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> a passionate **Computer Science graduate** with a keen interest in **DevOps** and **cloud technologies**. My journey in tech has been shaped by a blend of academic rigor and hands-on projects, with a focus on creating robust, scalable solutions.
+###I am [Mohammed Kais](https://kaiswork.shop)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> a passionate **Computer Science graduate** with a keen interest in **DevOps** and **cloud technologies**. My journey in tech has been shaped by a blend of academic rigor and hands-on projects, with a focus on creating robust, scalable solutions.
 
 #### 📚 Academic Background:
 - **Bachelor's Degree in Computer Science**
